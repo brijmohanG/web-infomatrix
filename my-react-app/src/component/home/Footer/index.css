@@ -1,0 +1,10 @@
+.footer-bg-container{
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+.list-container{
+    display: flex;
+    justify-content: space-around;
+}

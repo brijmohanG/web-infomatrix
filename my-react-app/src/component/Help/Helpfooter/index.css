@@ -1,0 +1,41 @@
+.help-footer-bg-container{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+
+.help-footer-link{
+    text-decoration: none;
+    color: black;
+}
+
+.help-footer-card-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #2e3192;
+    padding: 20px;
+    color: #ffffff;
+    border-radius: 20px;
+    width: 400px;
+    margin-bottom: 20px;
+}
+
+.help-card-heading{
+    font-size: 19px;
+}
+
+.whatspp-logo{
+    font-size: 50px;
+    color: green;
+}
+
+.second-card-container{
+    
+    margin-bottom: 20px;
+    background-color: #2e3192;
+    padding: 20px;
+    color: #ffffff;
+    border-radius: 20px;
+    width: 400px;
+}

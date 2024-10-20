@@ -1,0 +1,45 @@
+.card-bg-container{
+    padding-top: 120px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.card-hiperlinks{
+    text-decoration: none;
+    color: black;
+}
+.card-container{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.card{
+   
+    position: relative;
+    padding: 40px 0px 50px 0px;
+    border: 1px solid #DFDFDF;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.12);
+    width: 280px;
+    margin-bottom: 30px;
+}
+
+.card-button{
+    border: 1px solid #2e3192;
+    padding: 8px 5px;
+    background: #2e3192;
+    color: #fff;
+    border-radius: 3px;
+    position: absolute;
+    bottom: 15px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 86%;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 700;
+}

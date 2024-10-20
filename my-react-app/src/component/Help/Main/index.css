@@ -1,0 +1,27 @@
+.main-bg-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 80px;
+    
+}
+
+
+.list-main-container{
+    list-style: none;
+    
+}
+.list{
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+.notes-icon{
+    margin-right: 10px;
+    
+}
+
+.main-link{
+    text-decoration: none;
+    color: black;
+}

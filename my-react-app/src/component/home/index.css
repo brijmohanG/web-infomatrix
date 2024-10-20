@@ -1,0 +1,90 @@
+.header{
+    background-color: #2e3192;
+    position: fixed;
+    z-index: 1000;
+    width: 100vw;  
+}
+
+.header-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.header-logo-container{
+    display: flex;
+    align-items: center;
+    color: #ffffff;
+}
+
+.indiamart-logo{
+    height: 40px;
+    background-color: transparent;
+}
+
+.header-search-input-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 650px;
+}
+
+.header-search-input{
+    display: flex;
+}
+
+.header-input{
+    width: 340px;
+    padding: 0 10px;
+    border-radius: 3px;
+    border: 0;
+    font-size: 14px;
+    height: 35px;
+}
+
+.input-button{
+    height: 35px;
+    border: 0;
+    color: #fff;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    font: 14px / 1.3 Arial, Helvetica, sans-serif;
+    background-color: #00a699;
+    letter-spacing: 0.4px;
+    cursor: pointer;
+    margin-left: 2px;
+}
+
+.header-best-price-button{
+    box-sizing: border-box;
+    width: 115px;
+    height: 35px;
+    text-align: center;
+    color: #2e3192;
+    font: 700 15px / 1.3 Arial, Helvetica, sans-serif;
+    border-radius: 2px;
+    line-height: 35px;
+    background-color: #fff;
+    width: 200px;
+    padding-bottom: 35px;
+}
+
+.header-list-container{
+    list-style: none;
+    display: flex;
+    color: #ffffff;
+    margin-top: 30px;
+}
+
+.header-list{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 30px;
+}
+
+.link-tag{
+    text-decoration: none;
+    color: #ffffff;
+}

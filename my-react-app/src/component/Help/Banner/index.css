@@ -1,0 +1,23 @@
+.help-banner-bg-container{
+    padding-top: 150px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.help-section{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+    width: 310px;
+}
+
+.help-section-bulb{
+    font-size: 40px;
+}
+
+.help-section-heading{
+    text-align: center;
+}
